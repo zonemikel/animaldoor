@@ -14,6 +14,7 @@ Motor
 3d Printed parts
 Boost converter
 Photo resistor
+https://www.kth.se/social/files/54ef17dbf27654753f437c56/GL5537.pdf
 
 Features:
 4.5mA when in sleep mode

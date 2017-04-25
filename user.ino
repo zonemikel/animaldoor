@@ -9,7 +9,7 @@
 
 // light sensor is analog value
 // if its below this (darker) then its considered night
-#define NIGHTVAL 700
+#define NIGHTVAL 1000
 
 // logging stuff
 #define logdebug 5
